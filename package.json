@@ -1,0 +1,16 @@
+{
+  "name": "animals_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deply": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://KhadijaNoor777.github.io/animals_json",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
